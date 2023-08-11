@@ -35,7 +35,9 @@
 }
 /* main header section starts */
 #main {
-    background-image: url("/image/pen.jpg");
+    background-image: url("/image/penc.png");
+    background-position: center;
+    background-size: cover;
 }
 /* main header section ends */
 
