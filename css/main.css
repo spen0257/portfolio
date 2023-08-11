@@ -34,7 +34,7 @@
     border-radius: 5px 5px ;
 }
 /* main header section starts */
-#main {
+.main {
     background-image: url("/image/penceil.jpg");
     background-position: center;
     background-size: cover;
