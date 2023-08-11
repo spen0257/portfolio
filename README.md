@@ -48,8 +48,9 @@ I utilized the following assets and resources in my portfolio:
 
 - **CSS Framework**: Bootstrap (https://getbootstrap.com/)
 - **Icon Library**: Font Awesome (https://fontawesome.com/)
+- **Icon Library**: Remixicon (https://remixicon.com/)
 - **Fonts**: Google Fonts (https://fonts.google.com/)
-- **Images**: Unsplash (https://unsplash.com/)
+- **Header Image**: Unsplash (https://unsplash.com/)
 
 ## Contact
 
